@@ -1,0 +1,7 @@
+pyyaml
+py-cord
+pandas
+numpy
+pyIPRoyalPawns
+pyHoneygain
+earnapp

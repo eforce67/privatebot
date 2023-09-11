@@ -1,0 +1,41 @@
+# This YAML config covers most of the settings for how you can/want to run the bot.
+# If you have suggestions or improvements, leave a comment to the developer.
+# Created by @Neonshark#2321.
+
+# Use Image URL links only! Customize as needed!
+honeygain_logo: https://cdn.discordapp.com/attachments/930350125233102881/1133532503123185775/hg_logo.png
+iproyal_logo: https://cdn.discordapp.com/attachments/930350125233102881/1133532503513251840/ipr_logo.png
+proxyrack_logo: https://cdn.discordapp.com/attachments/930350125233102881/1143377648735752233/proxyrack.png
+earnapp_logo: https://cdn.discordapp.com/attachments/930350125233102881/1133661605943590932/earnapp.png
+jumptask_logo: https://cdn.discordapp.com/attachments/930350125233102881/1133532504578609162/jmpt_logo.png
+jumptask_thumbnail: https://cdn.discordapp.com/attachments/930350125233102881/1133532504964481134/jmpt_thumbnail.png  # Jumptask img1
+jumptask_bottom: https://cdn.discordapp.com/attachments/930350125233102881/1133532504318550026/jmpt_bottom.png  # Jumptask img2
+referral_image: https://cdn.discordapp.com/attachments/930350125233102881/1133532505295822859/referral_image.png
+
+# Required threshold for the script to automatically claim your revenue on Jumptask.
+jmpt_threshold: 2.10
+
+# Auto redeem general settings.
+# WARNING: set either to True or False. Capitalize the first letter!
+jmpt_redeem: False # jmpt tokens(jumptask) auto redeem True/False
+
+# Honeypot will be auto-redeem every at UTC time
+hp_redeem: True # honeypot(honeygain) auto redeem True/False
+
+# Enable logging? Logs can be found at /database/logs
+logging: True
+
+# List of applications you would like to run
+# Remove or comment out any lines of code that you don't want to execute.
+# WARNING: incorrect names or added applications that the script hasn't support yet will result in an error!
+application:
+  - honeygain
+  - earnapp
+  - pawns
+  - jumptask
+  - proxyrack
+  #- app_removed_example <-------- (LIKE THIS!)
+
+# Your Discord webhook
+# WARNING: Do not let anyone see or have access to your webhook.
+discord_webhook: https://discord.com/api/webhooks/test/test

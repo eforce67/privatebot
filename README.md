@@ -11,7 +11,9 @@ The script may be messy, but if some of its feature interests you, try it out! U
 >> 4. Pawns
 >> 5. Jumptask
 
-features | downsides
+#Features positive and negative
+positive | negative
+------------- | -------------
 :---: | :---:
 auto-claim Honeygain honeypot  | limited to 5 app options
 auto-claim Jumptask JMPT tokens  | uses socks5 as proxy ONLY

@@ -12,7 +12,7 @@ __Support for Python 3.9(not tested on other versions)__
 >> 4. Pawns
 >> 5. Jumptask
 
-#Features positive and negative
+# Features positive and negative
 positive | negative
 ------------- | -------------
 :---: | :---:

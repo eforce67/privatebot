@@ -5,14 +5,16 @@ The script may be messy, but if some of its feature interests you, try it out! U
 __Support for Python 3.9(not tested on other versions)__
 > _This script is under the [Apache License 2.0](https://github.com/eforce67/privatebot/blob/main/LICENSE)_
 
-# Supported Applications
+![alt text](./Capture.JPG)
+
+## Supported Applications
 - Earnapp
 - Honeygain
 - Proxyrack
 - Pawns
 - Jumptask
 
-# Features positive and negative
+## Features positive and negative
 positive | negative
 ------------- | -------------
 auto-claim Honeygain honeypot  | limited to 5 app options
